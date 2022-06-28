@@ -8,7 +8,7 @@ Projeto desenvolvido em equipe como critério de aprovação final do Curso de E
 
 * Emilson Cardoso
 
-## ⚙️ Tecnologias utilizadas para realização do projeto:
+## ⚙️ Tecnologias utilizadas para realização do projeto
 
 * Google Cloud Platform (CGP)
 * Cloud Storage (DataLake)
